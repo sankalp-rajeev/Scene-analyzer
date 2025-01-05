@@ -1,0 +1,27 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment settings
+.env
+pyvenv.cfg
+
+# Virtual environment folders
+Include/
+Lib/
+Scripts/
+
+# Static files (optional, if generated dynamically)
+static/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
