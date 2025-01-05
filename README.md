@@ -39,11 +39,7 @@ This project is a Flask-based web application that uses **MobileNetV2** and **Op
 
 
 ---
-![ss_scene_analyzer](https://github.com/user-attachments/assets/d68d7518-9900-4cc1-9ba6-13a77d168256)
----
 ## Results
-
-
-
+![ss_scene_analyzer](https://github.com/user-attachments/assets/d68d7518-9900-4cc1-9ba6-13a77d168256)
 ---
 
